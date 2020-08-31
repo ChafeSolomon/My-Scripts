@@ -1,0 +1,14 @@
+Hello my name is Chafe Solomon
+
+This is something i created to help the IT department as a whole open tickets directly with just a ticket number. 
+
+Requirments: 
+This script uses Python 3.7 but i believe it works on 3 in general. 
+There are many ways to get it to load with a hotkey but i suggest using a macro program where you can set up a hotkey to open the script.
+
+
+There are 3 additional commands in this script.
+
+Main: Brings you to whatever queue you left off in.
+New: Creates a new ticket
+Knowledge: Takes you to the knowledge base
