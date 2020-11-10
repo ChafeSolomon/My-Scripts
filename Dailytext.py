@@ -1,6 +1,7 @@
 #DOCUMENATION
-#https://github.com/ponty/pyscreenshot/tree/2.2
-#https://pypi.org/project/simplejson/
+# https://github.com/ponty/pyscreenshot/tree/2.2
+# This script grabs the daily text from JW.org and sends the screen grab to your last reply on google voice. 
+# Python 3.9 required.
 
 import os
 import sys
