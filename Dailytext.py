@@ -50,4 +50,4 @@ time.sleep(10)
 
 
 
-os.system("taskkill /im opera.exe /f")
+# os.system("taskkill /im opera.exe /f") # Feel free to edit program to kill
